@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning HTML, CSS and java script after that i will cover the other parts as well.
 - 💞️ I’m looking to collaborate on latest ideas about web development in IT industry.
 - 📫 How to reach me https://www.linkedin.com/in/muhammad-umair-a7b10a2b2/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: stay calm and keep learning.
+- ⚡ Fun fact: I am doing software engineering.
 
 <!---
 MuhammadUmair151601/MuhammadUmair151601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
